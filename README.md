@@ -57,6 +57,8 @@ Prevent the ball from passing your side of the screen while trying to make your 
 - **Point Accumulator**: Keep track of points for each player and display a winner when a predefined score is reached.
 - **Difficulty Levels**: Allow the user to choose from different difficulty levels for the CPU opponent.
 
+---
+
 📊 **Current Status**
 - **Single Player Mode**: Fully implemented. The player competes against a basic CPU-controlled paddle.
 - **Game Mechanics**: Ball physics, paddle movement, and collision detection are functional.
