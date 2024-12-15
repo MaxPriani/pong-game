@@ -49,7 +49,7 @@ Prevent the ball from passing your side of the screen while trying to make your 
 
 ---
 
-💡 **Planned Features**
+## 💡 **Planned Features**
 - **Main Menu**: Add a start menu and a game over screen.
 - **Sound Effects**: Introduce sound effects for paddle hits and scoring.
 - **Two-Player Mode**: Allow a second player to control the right paddle using arrow keys.
@@ -59,7 +59,7 @@ Prevent the ball from passing your side of the screen while trying to make your 
 
 ---
 
-📊 **Current Status**
+## 📊 **Current Status**
 - **Single Player Mode**: Fully implemented. The player competes against a basic CPU-controlled paddle.
 - **Game Mechanics**: Ball physics, paddle movement, and collision detection are functional.
 - **Rendering**: Smooth rendering of game objects using SDL2.
