@@ -1,8 +1,8 @@
 # 🕹️ Classic 'Pong' Game in C - using SDL2
 
-This project is a modern implementation of the classic 'Pong' game, developed in C using the SDL2 library. The primary focus is to integrate and strengthen core programming concepts such as **modularization**, **encapsulation**, and **familiarity with SDL2** for game development.  
+This project is a modern implementation of the classic **'Pong'** game, developed in C using the **SDL2 library**. The primary focus is to integrate and strengthen core programming concepts such as **modularization**, **encapsulation**, and **familiarity with SDL2** for game development.  
 
-The project is currently in development, with plans to gradually add new features such as menus, sound effects, and a two-player mode.  
+**The project is currently in development**, with plans to gradually add new features such as menus, sound effects, and a two-player mode.  
 
 ---
 
@@ -63,3 +63,4 @@ Prevent the ball from passing your side of the screen while trying to make your 
 - **Single Player Mode**: Fully implemented. The player competes against a basic CPU-controlled paddle.
 - **Game Mechanics**: Ball physics, paddle movement, and collision detection are functional.
 - **Rendering**: Smooth rendering of game objects using SDL2.
+
