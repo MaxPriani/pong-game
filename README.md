@@ -32,16 +32,16 @@ sudo apt install gcc cmake libsdl2-dev libsdl2-ttf-dev
 
 ## ⚡ Quickstart
 
-Once you've installed the required dependencies, you can compile and run the game with the following steps:
+Once you've installed the required **dependencies**, you can compile and run the game with the following steps:
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/MaxPriani/pong-game.git
 cd pong-game
 ```
 
-2. Create a build directory and compile the project:
+### 2. Create a build directory and compile the project:
 
 ```bash
 mkdir build
@@ -49,7 +49,7 @@ cd build && cmake ..
 make
 ```
 
-3. Run the game:
+### 3. Run the game:
 
 ```bash
 ./pong
